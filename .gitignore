@@ -1,0 +1,30 @@
+## Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## Build
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+artifacts/
+*.dll
+*.pdb
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+.coverage
+
+## NuGet
+*.nupkg
+packages/
+.nuget/
+
+## OS
+.DS_Store
+Thumbs.db
